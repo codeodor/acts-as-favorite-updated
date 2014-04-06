@@ -17,8 +17,8 @@ module ActsAsFavorite
           else
             super
           end
-        #rescue
-        #  super
+        rescue
+          super
         end
         
       end
